@@ -1,0 +1,13 @@
+yax_version: 1.0.0
+template_id: yaxt-tinysites-water-dark
+template_title: 'Water Dark'
+category: tiny_sites_dark
+description: 'One page site with dark styling from the Water project.'
+template_img: https://assets.yax.com/images/templates/yaxt-tinysites-water-dark.png
+author: 'the Yax team'
+author_img: https://assets.yax.com/images/icons/yax.jpg
+files:
+- index.html
+- README.md
+- render.yaml
+- assets/styles/site.css
